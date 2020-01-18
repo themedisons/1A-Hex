@@ -1,6 +1,6 @@
 # 1A2.py Programma funkcijas tuvinātās vērtības aprēķinam summējot skaitļu virknes elementus un lietojot rekurences izteiksmi
 # Funkcija exp(x)
-# Autors: Sandis Mālnieks 193RIC058
+# Autors: Raivis Medvedevs 193NEB004 NEMB0
 # Datums: 17.01.2020
 
 import math
